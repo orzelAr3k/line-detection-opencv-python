@@ -1,0 +1,16 @@
+name: carld
+dependencies:
+    - python==3.6.9
+    - numpy
+    - matplotlib
+    - jupyter
+    - scipy
+    - pandas
+    - imageio
+    - pip:
+        - opencv-python
+        - requests
+        - tensorflow
+        - keras
+        - docopt
+        - glob3
